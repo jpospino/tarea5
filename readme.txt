@@ -4,9 +4,17 @@ JUAN PABLO OSPINO SOLANO
 20170403
 repositorio: https://github.com/jpospino/tarea5.git
 
+0. Clonar el repositorio
+para clonar ejecute el siguiente comandoen DOS
+ 	
+	git clone https://github.com/jpospino/tarea5.git
+	
+a continuación vaya ala ruta de las funentes con el siguiente comando
+	
+	cd tarea4\src\tarea4\
 
 1. Compilación en maven
-para compilar basta con digitar los siguientes comandos en la ruta ...\Tarea5\src\tarea5:
+ubicado en la ruta donde se encuenrtan las fuentes ejecute los siguientes comandos para compilar
 
 	mvn clean
 	mvn package
