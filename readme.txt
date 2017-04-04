@@ -5,11 +5,11 @@ JUAN PABLO OSPINO SOLANO
 repositorio: https://github.com/jpospino/tarea5.git
 
 0. Clonar el repositorio
-para clonar ejecute el siguiente comandoen DOS
+para clonar ejecute el siguiente comando en DOS
  	
 	git clone https://github.com/jpospino/tarea5.git
 	
-a continuación vaya ala ruta de las funentes con el siguiente comando
+a continuación vaya a la ruta de las fuentes con el siguiente comando
 	
 	cd tarea4\src\tarea4\
 
