@@ -27,11 +27,15 @@ y el comando para correr local:
 	
 	heroku local web
 
+y en un navegador web o un cliente de servicios rest como Postman enviar el siguiente request
 
+	http://localhost:5000/numericalIntegration?intervalo=2.750&DOF=30&error=0.00001	
+	
 se adjunta dentro de las carpeta de test el resultado de la compilación y pruebas unitarias ver compilacion.txt.
 
 
 2. Acceso a heroku
+
 
 el programa está publicado en heroku como un servicio REST para su ejecución. 
 
@@ -41,6 +45,9 @@ cambie los parametros segun los valores que se quiera introducir
 intervalo
 DOF
 error
+
+3. Accesos a JAVADOC
+Entre a la ruta \Tarea5\src\tarea5\target\site\apidocs\index.html
 
 
 ***************************************
